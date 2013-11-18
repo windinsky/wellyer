@@ -1,4 +1,4 @@
-*/.DS_Strore
+*.DS_Strore
 
 decorator/.DS_Store
 
@@ -23,3 +23,6 @@ decorator/source/node_modules/welly/node_modules/.DS_Store
 decorator/source/nohup.out
 
 decorator/source/log.log
+
+decorator/logs
+.DS_Store
